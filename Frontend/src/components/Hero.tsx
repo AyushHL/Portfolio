@@ -1,4 +1,3 @@
-import { motion } from "framer-motion";
 import { personalInfo } from "../data/portfolio";
 import FadeIn from "./FadeIn";
 
