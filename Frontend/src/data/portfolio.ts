@@ -133,6 +133,20 @@ export const projects: Project[] = [
     github: "https://github.com/AyushHL/Snake-Chaser-Game",
     period: "February 2024",
   },
+    {
+    id: "weather-now",
+    title: "Weather Now",
+    description:
+      "A Modern, Responsive Weather Application Built with React, TypeScript and Vite to Provide Real-time Weather Information for any City Worldwide.",
+    bullets: [
+      "Developed a Lightning-fast, Modern Weather Forecasting Application utilizing React, TypeScript and Vite.",
+      "Integrated the Open-Meteo Weather and Geocoding APIs to Accurately Fetch and Display Real-time Temperature, Wind Speed and Condition Data.",
+      "Crafted a Fully Responsive, Clean Glassmorphism UI using Tailwind CSS and Lucide React Icons for an Intuitive and Dynamic User Experience.",
+    ],
+    techStack: ["TypeScript", "React", "Open-Meteo API"],
+    github: "https://github.com/AyushHL/Weather-Now",
+    period: "September 2025",
+  },
   {
     id: "selection-sort-animation",
     title: "Selection Sort Animation",
