@@ -145,6 +145,7 @@ export const projects: Project[] = [
     ],
     techStack: ["TypeScript", "React", "Open-Meteo API"],
     github: "https://github.com/AyushHL/Weather-Now",
+    live: "https://weather-now-project-ag.netlify.app/",
     period: "September 2025",
   },
   {
