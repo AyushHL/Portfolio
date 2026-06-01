@@ -9,7 +9,7 @@ export const personalInfo = {
   linkedin: "https://linkedin.com/in/AyushHL",
   github: "https://github.com/AyushHL",
   leetcode: "https://leetcode.com/u/AyushHL/",
-  instagram: "https://instagram.com/zenith_ayush",
+  instagram: "https://instagram.com/kaiser_ayush",
   x: "https://x.com/zenith_ayush",
   shortBio: "I'm a Software Developer proficient in C++ and Python. I enjoy solving Complex Problems, conducting in-depth Research and building Scalable, Elegant Software.",
   bio: "I'm a Computer Engineering student at Delhi Technological University with a strong foundation in C++ and Python. I enjoy solving Complex Problems, conducting in-depth Research and building Scalable, Elegant Software. I focus on turning Challenging Ideas into Simple, Efficient Solutions while continuously learning and growing in Collaborative Environments.",
