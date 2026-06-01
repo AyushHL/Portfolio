@@ -96,7 +96,7 @@ const Contact = () => {
                 <div>
                   <div className="contact-info-label">Instagram</div>
                   <div className="contact-info-value">
-                    <a href={personalInfo.instagram} target="_blank" rel="noopener noreferrer">Zenith_Ayush</a>
+                    <a href={personalInfo.instagram} target="_blank" rel="noopener noreferrer">kaiser_ayush</a>
                   </div>
                 </div>
               </div>
