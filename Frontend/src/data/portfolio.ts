@@ -20,8 +20,8 @@ export const education: Education[] = [
     id: "dtu",
     institution: "Delhi Technological University",
     degree: "B.Tech in Computer Engineering",
-    period: "Nov 2022 – Present",
-    score: "8.78",
+    period: "Nov 2022 – May 2026",
+    score: "8.71",
     scoreLabel: "CGPA",
   },
   {
@@ -216,7 +216,7 @@ export const skills: SkillCategory[] = [
 export const achievements: Achievement[] = [
   {
     id: "leetcode-125",
-    title: "Solved 125+ DSA problems on LeetCode across varying Difficulty Levels",
+    title: "Solved 150+ DSA problems on LeetCode across varying Difficulty Levels",
     icon: "🧩",
   },
   {
